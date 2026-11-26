@@ -1,0 +1,12 @@
+,AES,Baru
+bijective,True,True
+NL,112,96
+DU,4,10
+LAP,0.0625,0.125
+DAP,0.015625,0.0390625
+fixed_points,0,2
+opposite_fixed_points,0,1
+bic_nl_min,112,98
+bic_sac_mean,0.5046037946428571,0.50146484375
+SAC_mean,0.5048828125,0.5
+SAC_max_dev,0.0625,0.109375

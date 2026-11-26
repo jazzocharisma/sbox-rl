@@ -1,0 +1,10 @@
+seed,method,NL,DU,evals,mode
+100,DQN,96,10,370,uji_cepat
+100,SA,96,10,370,uji_cepat
+100,Acak,98,10,370,uji_cepat
+101,DQN,96,10,370,uji_cepat
+101,SA,98,10,370,uji_cepat
+101,Acak,96,10,370,uji_cepat
+102,DQN,96,10,370,uji_cepat
+102,SA,96,10,370,uji_cepat
+102,Acak,98,10,370,uji_cepat

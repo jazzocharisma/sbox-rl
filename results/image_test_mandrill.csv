@@ -1,0 +1,4 @@
+gambar,entropi,korelasi_horizontal,korelasi_vertikal,korelasi_diagonal
+Asli,7.2273,0.8734,0.8286,0.7867
+Cipher AES asli,7.9972,0.0049,-0.0033,0.0003
+Cipher AES S-box baru,7.9974,0.008,0.0016,0.0039
